@@ -1,5 +1,5 @@
 <h1 align="center">Hi There My Brilliant Friend 👋, I'm Sahal Mahin</h1>
-  <h3 align="center">I am on track of my web developing journey with programming hero</h3>
+  <h3 align="center">On track of my web developing journey with programming hero</h3>
 
 <img alt="coding" width="400" align="right"
     src="https://i.postimg.cc/Wzc450bx/programer-working.jpg" />
