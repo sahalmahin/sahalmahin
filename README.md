@@ -7,26 +7,28 @@
  - ⚡ Fun fact I'd be grateful if anyone wants help with the code<br/>
 
   <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/samir satter mahinm" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="samir satter mahinm" height="30" width="40" /></a>
-    <a href="https://fb.com/sahal mahin" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-        alt="sahal mahin" height="30" width="40" /></a>
-    <a href="https://instagram.com/sahal_mahin" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="sahal_mahin" height="30" width="40" /></a>
-    <a href="https://discord.gg/sahal_mahin" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-        alt="sahal_mahin" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/sahal-m-68912b183" target="blank">
-        <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       alt="samir satter mahinm" height="30" width="40" />
-    </a>
-
-  </p>
+        <p align="left">
+            <a href="https://www.facebook.com/sahal.mahin.009" target="_blank">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+                    alt="sahal mahin" height="30" width="40" />
+            </a>
+            <a href="https://linkedin.com/in/sahal-m-68912b183" target="blank">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                    alt="samir satter mahinm" height="30" width="40" />
+            </a>
+            <a href="https://www.instagram.com/sahal_mahin/" target="_blank">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+                    alt="sahal_mahin" height="30" width="40" />
+            </a>
+            <a href="https://discord.gg/YOUR_INVITE_CODE" target="_blank">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+                    alt="sahal_mahin" height="30" width="40" />
+            </a>
+        </p>
 
   <h3 align="left">Languages And Tools I Code With:</h3>
   
