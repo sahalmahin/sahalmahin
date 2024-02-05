@@ -1,13 +1,8 @@
 <h1 align="center">Hi There My Brilliant Friend 👋, I'm Sahal Mahin</h1>
   <h3 align="center">On track of my web developing journey with programming hero</h3>
 
-
- 
-
-
 <img alt="coding" width="400" align="right"
     src="https://i.postimg.cc/Wzc450bx/programer-working.jpg" />
-
 
   - 📫 How to reach me **sahalmahin009@gmail.com**
 
@@ -29,7 +24,6 @@
 
   <h3 align="left">Languages And Tools I Code With:</h3>
   
-
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=black)](https://getbootstrap.com/)
@@ -45,5 +39,3 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black)](https://www.figma.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black)](https://git-scm.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=black)](https://code.visualstudio.com/)
-
-
