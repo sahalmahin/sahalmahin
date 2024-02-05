@@ -28,6 +28,11 @@
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
                     alt="sahal_mahin" height="30" width="40" />
             </a>
+            <a href="https://twitter.com/sahal_mahin" target="_blank">
+                <img align="center"
+                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+                    alt="sahal_mahin" height="30" width="40" style="margin-right: 5px;" />
+            </a>
         </p>
 
   <h3 align="left">Languages And Tools I Code With:</h3>
