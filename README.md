@@ -20,6 +20,12 @@
     <a href="https://discord.gg/sahal_mahin" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
         alt="sahal_mahin" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/sahal-m-68912b183" target="blank">
+        <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="samir satter mahinm" height="30" width="40" />
+    </a>
+
   </p>
 
   <h3 align="left">Languages And Tools I Code With:</h3>
