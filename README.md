@@ -4,7 +4,7 @@
  - 📫 How to reach me **sahalmahin009@gmail.com**<br/>
  - ❤️ I love to share coding tips and tricks<br/>
  - ✨ I’m currently learning something cool<br/>
- - ⚡ Fun fact I'd be grateful if anyone wants help with the code<br/>
+ - ⚡ Fun fact if anyone wants help with the code would be appreciated
 
   <h3 align="left">Connect with me:</h3>
         <p align="left">
